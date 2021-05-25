@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <img align='center' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 ---
+
 ## 🏆 GitHub Stats
 
 <p align="center">
@@ -29,14 +30,18 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpraneetha&l&layout=compact&theme=radical&bg_color=141321&text_color=00E7FF&border_color=7B75CC" height="165">
   </a>
 </p>
+
 ---
+
 ## 🔥 GitHub Contributions
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=RPraneetha&theme=radical&dates=F8D847&currStreakNum=00E7FF&currStreakLabel=00E7FF&border=7B75CC">
   </a>
 </p>
+
 ---
+
 <p align="center"> 
   Visitor Count: <img src="https://profile-counter.glitch.me/rpraneetha/count.svg" alt="Visitor Count" align="center" />
 </p>
