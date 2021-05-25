@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=rpraneetha&theme=radical&border=7B75CC&show_icons=true&count_private=true&text_color=00E7FF&border_color=7B75CC" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rpraneetha&theme=radical&border=7B75CC&show_icons=true&count_private=true&text_color=00E7FF&border_color=7B75CC" height="165" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpraneetha&l&theme=radical&bg_color=0d1117&text_color=FFF&border_color=444" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpraneetha&l&layout=compact&theme=radical&bg_color=141321&text_color=00E7FF&border_color=7B75CC" height="165">
   </a>
 </p>
 ---
