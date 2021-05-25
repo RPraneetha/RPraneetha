@@ -25,8 +25,16 @@ Here are some ideas to get you started:
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=RPraneetha&theme=radical&dates=F8D847&currStreakNum=00E7FF&currStreakLabel=00E7FF&border=7B75CC">
   </a>
-  [![Ramya's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPraneetha)](https://github.com/anuraghazra/github-readme-stats)
-
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rpraneetha&theme=radical&border=7B75CC&show_icons=true&count_private=true&text_color=00E7FF&border_color=7B75CC" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpraneetha&l&theme=radical&bg_color=0d1117&text_color=FFF&border_color=444">
+  </a>
+</p>
+---
+<p align="center"> 
+  Visitor Count: <img src="https://profile-counter.glitch.me/rpraneetha/count.svg" alt="Visitor Count" align="center" />
 </p>
 
 
