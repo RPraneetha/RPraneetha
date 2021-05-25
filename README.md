@@ -25,6 +25,8 @@ Here are some ideas to get you started:
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=RPraneetha&theme=radical&dates=F8D847&currStreakNum=00E7FF&currStreakLabel=00E7FF&border=7B75CC">
   </a>
+  [![Ramya's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPraneetha)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
 
