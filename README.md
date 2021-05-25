@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="https://github.com/RPraneetha/RPraneetha/blob/6d62738cf1ab5af5ed69241fb4aa653f10ea6cb7/header.png">
+
 
 <!--
 **RPraneetha/RPraneetha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
