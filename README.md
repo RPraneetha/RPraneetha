@@ -51,3 +51,4 @@ Here are some ideas to get you started:
 
 - [REHeader](https://github.com/khalby786/REHeader) 
 - [Github Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
