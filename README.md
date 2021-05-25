@@ -19,8 +19,13 @@ Here are some ideas to get you started:
 <img align='center' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 ---
+## 🏆 GitHub Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RPraneetha&theme=radical&dates=F8D847&currStreakNum=00E7FF&currStreakLabel=00E7FF&border=7B75CC)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=RPraneetha&theme=radical&dates=F8D847&currStreakNum=00E7FF&currStreakLabel=00E7FF&border=7B75CC">
+  </a>
+</p>
 
 
 ## :heart: Tools used to create this README Profile:
