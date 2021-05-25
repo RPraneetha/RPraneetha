@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RPraneetha&theme=radical&hide_border=true&dates=F8D847&currStreakNum=00E7FF&currStreakLabel=00E7FF)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RPraneetha&theme=radical&dates=F8D847&currStreakNum=00E7FF&currStreakLabel=00E7FF&border=7B75CC)](https://git.io/streak-stats)
 
 
 ## :heart: Tools used to create this README Profile:
