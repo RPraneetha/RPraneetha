@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Mental health applications
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about Persuasive Technology
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ramya-praneetha-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramya-praneetha/)](https://www.linkedin.com/in/ramya-praneetha/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/in-ramya--praneetha-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramya-praneetha/)](https://www.linkedin.com/in/ramya-praneetha/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I find shitty movies very entertaining.
 
