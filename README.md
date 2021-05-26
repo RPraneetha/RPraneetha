@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 
 ---
 
+## ✨ About Me ✨
+
 - 🔭 I’m currently working on my thesis
 - 🌱 I’m currently learning Pytorch
 - 👯 I’m looking to collaborate on Mental health applications
