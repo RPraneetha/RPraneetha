@@ -6,19 +6,22 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
 <img align='center' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 ---
+
+- 🔭 I’m currently working on my thesis
+- 🌱 I’m currently learning Pytorch
+- 👯 I’m looking to collaborate on Mental health applications
+- 🤔 I’m looking for help with Machine Learning
+- 💬 Ask me about Persuasive Technology
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/ramya-praneetha/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I find shitty movies very entertaining.
 
 ## 👩‍💻 My Skill Set  
 <table><tr><td valign="top" width="33%">
