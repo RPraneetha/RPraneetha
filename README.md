@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Machine Learning
 - 💬 Ask me about Persuasive Technology
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ramya-praneetha/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" /></a>
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I find shitty movies very entertaining.
 
