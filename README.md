@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ## ✨ About Me ✨
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='400"'>
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='350'>
 
 - 🔭 I’m currently working on my thesis
 - 🌱 I’m currently learning Pytorch
