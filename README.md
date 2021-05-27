@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 
 ---
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 ## ✨ About Me ✨
 
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 - 🔭 I’m currently working on my thesis
 - 🌱 I’m currently learning Pytorch
 - 👯 I’m looking to collaborate on Mental health applications
